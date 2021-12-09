@@ -3,6 +3,7 @@ module.export = {
     test: 'TESTE_TESTE'
   },
   client: {
-    client: 'CLIENT_CLIENT'
+    client: 'CLIENT_CLIENT',
+    clientLogin: 'ClientLogin'
   }
 }
