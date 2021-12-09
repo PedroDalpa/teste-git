@@ -4,6 +4,7 @@ module.export = {
   },
   client: {
     client: 'CLIENT_CLIENT',
-    clientLogin: 'ClientLogin'
+    clientLogin: 'ClientLogin',
+    clientPurchase: 'ClientPurchase'
   }
 }
